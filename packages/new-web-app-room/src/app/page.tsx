@@ -77,7 +77,7 @@ export default function TodoApp() {
       <div className="max-w-2xl mx-auto">
         {/* Header */}
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-gray-800 mb-2">Todo App v12</h1>
+          <h1 className="text-4xl font-bold text-gray-800 mb-2">Todo App v13</h1>
           <p className="text-gray-600">Stay organized and get things done!</p>
           {totalCount > 0 && (
             <div className="mt-4 text-sm text-gray-500">
@@ -232,6 +232,7 @@ export default function TodoApp() {
     </div>
   );
 }
+
 
 
 
